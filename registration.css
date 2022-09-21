@@ -1,0 +1,10 @@
+.background-image{
+    background-image:url("https://www.businessinsider.in/photo/87274504/best-diy-wallpapers-india.jpg?imgsize=256946");
+    background-size:cover;
+    height:100vh;
+}
+.para{
+    text-align:center;
+    color:aliceblue;
+    font-weight:200px;
+}
